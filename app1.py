@@ -5,7 +5,7 @@ import speech_recognition as sr
 from pydub import AudioSegment
 
 # Замените на свой токен
-TOKEN = '7823042550:AAFfymkQbbw2McKHJGBn8PRYScVwrtqRUho'
+TOKEN = 'Введите свой токен'
 bot = telebot.TeleBot(TOKEN)
 translator = Translator()
 
